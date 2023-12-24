@@ -27,7 +27,8 @@ Prettify JSON
 vscode-icons
 Prisma
 
-## Useful commands for installments in Visual Studio 
+Useful commands for installments in Visual Studio
+
 Npx creat-next-app@latest "your app name"
 npm i styled-components
 npm install @cler/next js 
