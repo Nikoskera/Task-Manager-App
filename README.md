@@ -44,6 +44,6 @@ npm install nextjs-toploader
 npx prisma studio (working at localhost:5000)
 
 
-![chrome_zCDXJOlnmN](https://github.com/Nikoskera/Task-Manager-App/assets/134315771/3b2bf741-c57b-4bf6-a3c0-a1d41f0cd036)
+![chrome_zCDXJOlnmN](Images/chrome_zCDXJOlnmN.png)
 
 
