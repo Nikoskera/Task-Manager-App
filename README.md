@@ -44,6 +44,6 @@ npm install nextjs-toploader
 npx prisma studio (working at localhost:5000)
 
 
-![chrome_zCDXJOlnmN](Images/chrome_zCDXJOlnmN.png)
+
 
 
